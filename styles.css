@@ -7,7 +7,7 @@ html, body, .wrapper {
 }
 
 body {
-    background: linear-gradient(135deg, rgba(167,190,255,1) 0%,rgba(168,225,223,1) 59%,rgb(135, 251, 207, 1) 100%);
+    background: linear-gradient(135deg, rgb(167, 190, 255) 0%,rgb(168,225,223) 59%,rgb(135, 251, 207) 100%);
     font-family: 'Open Sans', sans-serif;
     color: #333;
 }
